@@ -7,6 +7,8 @@ torch_hub_LJ_Speech 폴더에 들어가면 torch_hub를 이용하여 타코트�
 
 dataset : LJ Speech 데이터셋을 사용하였습니다.한국어 데이터셋은 학습하는데 너무나 오래걸려 GPU문제등 여러가지 문제 때문에 사용하지 못하였습니다.
 
+합성한 음성입니다.: 
+
 기간 : 02/08 ~ 02/20
 
 모델설명:
@@ -32,3 +34,4 @@ Decoder 역할 = Attention에서 얻은 정보와 이전 시점에서 생성된 
 Vocoer 역할 =  보코더 부분은 구현하지 않았습니다.
 
 레퍼런스 = t아카데미 음성합성, https://tts.readthedocs.io/
+
