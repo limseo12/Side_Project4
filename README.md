@@ -1,12 +1,13 @@
 # SideProject-4
 Tacotron2를 이용한 음성합성 프로젝트 입니다 (PyTorch)
+torch_hub_LJ_Speech 폴더에 들어가면 torch_hub를 이용하여 타코트론2 모델과 waveglow 모델을 불러와 음성합성을 진행했습니다.
+또한 tacotron2_pynb.ipynb 에서 논문을 읽고 레퍼런스 코드를 참조하여
+타코트론2 부분을 구현하였습니다.보코더 부분은 제외하였습니다.
+논문에 대한 번역본도 깃허브에 올려 놓았습니다.
 
-Hyperparameter 부분 설명은 코드옆에 주석으로 작성 했습니다.
-(참고 : https://tts.readthedocs.io)
+dataset : LJ Speech 데이터셋을 사용하였습니다.한국어 데이터셋은 학습하는데 너무나 오래걸려 GPU문제등 여러가지 문제 때문에 사용하지 못하였습니다.
 
-dataset : 
-
-기간 : 02/08 ~ 
+기간 : 02/08 ~ 02/20
 
 모델설명:
 
@@ -28,4 +29,6 @@ Decoder 역할 = Attention에서 얻은 정보와 이전 시점에서 생성된 
                이전 시점의 Mel-spectrogram은 Pre-Net을 통과하여 축약된 벡터가 됩니다. 이 벡터는 두 개의 층으로 구성된 Decoder LSTM에 활용됩니다.
                그 뒤 FC Layer 를 지나 현재시점의 Mel-Spectrogram이 생성됩니다.
     
-Vocoer 역할 =            
+Vocoer 역할 =  보코더 부분은 구현하지 않았습니다.
+
+레퍼런스 = t아카데미 음성합성, https://tts.readthedocs.io/
