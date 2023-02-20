@@ -7,7 +7,7 @@ torch_hub_LJ_Speech 폴더에 들어가면 torch_hub를 이용하여 타코트�
 
 dataset : LJ Speech 데이터셋을 사용하였습니다.한국어 데이터셋은 학습하는데 너무나 오래걸려 GPU문제등 여러가지 문제 때문에 사용하지 못하였습니다.
 
-합성한 음성입니다.: 
+합성한 음성입니다: https://blog.kakaocdn.net/dn/ODJIF/btrZ6Ie8yCV/KcBNw6mvHRhC6hYrTcpZkK/tfile.wav
 
 기간 : 02/08 ~ 02/20
 
