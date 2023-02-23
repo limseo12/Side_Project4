@@ -37,5 +37,7 @@ Decoder 역할 = Attention에서 얻은 정보와 이전 시점에서 생성된 
 Vocoer 역할 = mel-spectrogram을 이용하여 WaveNet은 MOL에 사용할 paramter를 생성합니다. 생성된 paramter를 이용하여 
              -2^15 ~ 2^15 + 1 사이의 숫자가 나올 확률인 mixture of logistic distribution를 생성하고 가장 큰 확률을 갖고 있는 값을 이용하여 waveform을 생성합니다.
 
+
+프로젝트 코드에 대한 자세한 공부+설명은 블로그에 올려놓았습니다 https://lim123.tistory.com/88 \
 레퍼런스 = t아카데미 음성합성, https://tts.readthedocs.io/
-프로젝트 코드에 대한 설명 https://lim123.tistory.com/88
+
