@@ -4,7 +4,7 @@ torch_hub_LJ_Speech 폴더에 들어가면 torch_hub를 이용하여 타코트�
 (tacotron2 + 보코더 모두 구현되어 있다.)\
 또한 tacotron2_pynb.ipynb 파일 에서 논문을 읽고 레퍼런스 코드를 참조하여\
 타코트론2 부분을 구현하였습니다.보코더 부분은 제외하였습니다.\
-논문에 대한 번역본도 paper 폴더에 올려 놓았습니다.\
+논문에 대한 번역본도 paper 폴더에 올려 놓았습니다.
 
 합성한 음성입니다: https://blog.kakaocdn.net/dn/ODJIF/btrZ6Ie8yCV/KcBNw6mvHRhC6hYrTcpZkK/tfile.wav
 
@@ -38,4 +38,4 @@ Vocoer 역할 = mel-spectrogram을 이용하여 WaveNet은 MOL에 사용할 para
              -2^15 ~ 2^15 + 1 사이의 숫자가 나올 확률인 mixture of logistic distribution를 생성하고 가장 큰 확률을 갖고 있는 값을 이용하여 waveform을 생성합니다.
 
 레퍼런스 = t아카데미 음성합성, https://tts.readthedocs.io/
-
+프로젝트 코드에 대한 설명 https://lim123.tistory.com/88
