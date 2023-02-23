@@ -6,9 +6,11 @@ torch_hub_LJ_Speech 폴더에 들어가면 torch_hub를 이용하여 타코트�
 타코트론2 부분을 구현하였습니다.보코더 부분은 제외하였습니다.\
 논문에 대한 번역본도 paper 폴더에 올려 놓았습니다.\
 
-dataset : LJ Speech 데이터셋을 사용하였습니다.한국어 데이터셋은 학습하는데 너무나 오래걸려 GPU문제등 여러가지 문제 때문에 사용하지 못하였습니다.
-
 합성한 음성입니다: https://blog.kakaocdn.net/dn/ODJIF/btrZ6Ie8yCV/KcBNw6mvHRhC6hYrTcpZkK/tfile.wav
+
+
+
+dataset : LJ Speech 데이터셋을 사용하였습니다.한국어 데이터셋은 학습하는데 너무나 오래걸려 GPU문제등 여러가지 문제 때문에 사용하지 못하였습니다.
 
 기간 : 02/08 ~ 02/20
 
@@ -19,7 +21,7 @@ task1 : 텍스트로부터 Mel-Spectrogram을 생성하는 단계
 task2 : Mel-Spectrogram으로부터 음성을 합성하는 단계
 
 task1에서 text로 input 을 받아 Encoder를 지나 Attention과 Decoder가 서로 작동합니다. Mel-Spectrogram 출력됩니다.타코트론2 모델을 사용하였습니다
-task2에서 vocoder 부
+task2에서 Mel-spectrogram을 이용하여 음성합성을 합니다.
 
 Encoder 역할 = Character로부터 특징을 추출하는 역할입니다
 Encoder 과정 = Embedding Matrix를 통과해 전처리된 정수열은 Matrix형태로 변환되며 1D Conv(5x1) + Batch Norm + ReLU 를 지나 bi-LSTM 까지 도달 그 뒤 Attention 으로 이동합니다.
@@ -32,7 +34,8 @@ Decoder 역할 = Attention에서 얻은 정보와 이전 시점에서 생성된 
                이전 시점의 Mel-spectrogram은 Pre-Net을 통과하여 축약된 벡터가 됩니다. 이 벡터는 두 개의 층으로 구성된 Decoder LSTM에 활용됩니다.
                그 뒤 FC Layer 를 지나 현재시점의 Mel-Spectrogram이 생성됩니다.
     
-Vocoer 역할 =  보코더 부분은 구현하지 않았습니다.
+Vocoer 역할 = mel-spectrogram을 이용하여 WaveNet은 MOL에 사용할 paramter를 생성합니다. 생성된 paramter를 이용하여 
+             -2^15 ~ 2^15 + 1 사이의 숫자가 나올 확률인 mixture of logistic distribution를 생성하고 가장 큰 확률을 갖고 있는 값을 이용하여 waveform을 생성합니다.
 
 레퍼런스 = t아카데미 음성합성, https://tts.readthedocs.io/
 
