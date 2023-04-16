@@ -41,3 +41,13 @@ Vocoer 역할 = mel-spectrogram을 이용하여 WaveNet은 MOL에 사용할 para
 프로젝트 코드에 대한 자세한 공부+설명은 블로그에 올려놓았습니다 https://lim123.tistory.com/88 \
 레퍼런스 = t아카데미 음성합성, https://tts.readthedocs.io/
 
+ppt:
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FBgxQK%2FbtsaqOPXCf6%2FCN4SummdkFEUcyFeddQGHK%2Fimg.png
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCkLe8%2FbtsayVno7nh%2FMXOgfNaY4zbS1lLRniaG9k%2Fimg.png
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuabB8%2Fbtsahzmidos%2F79sr2r0pt4dSwN0VrE21W0%2Fimg.png
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FwZbEB%2FbtsaqPnNm60%2Fh5D53Ve5xkAIQ1jkc1wv00%2Fimg.png
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzdYqI%2Fbtsaw8fZoNE%2FkTbUqu2GHCGvHj7vpgyPmk%2Fimg.png
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F8cVSR%2Fbtsak3z7Fzr%2Fakge2YV2l4mIktRVdyKx6k%2Fimg.png
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FTkA81%2Fbtsal3Uaaef%2FnXaV9QbyXKL9bQuWRKfB21%2Fimg.png
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbc1y1n%2FbtsayWmiZot%2FTLrIDMSIPl2Wy3eQEQOrl0%2Fimg.png
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcaUZyz%2FbtsayU24XC1%2FfCVisyukTScEzBJ6FZC14k%2Fimg.png
