@@ -42,7 +42,7 @@ Vocoer 역할 = mel-spectrogram을 이용하여 WaveNet은 MOL에 사용할 para
 레퍼런스 = t아카데미 음성합성, https://tts.readthedocs.io/
 
 ppt:
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FBgxQK%2FbtsaqOPXCf6%2FCN4SummdkFEUcyFeddQGHK%2Fimg.png
+![image](https://user-images.githubusercontent.com/93918673/232313209-02157320-2f28-43cd-99f1-522275b4de13.png)
 https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCkLe8%2FbtsayVno7nh%2FMXOgfNaY4zbS1lLRniaG9k%2Fimg.png
 https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuabB8%2Fbtsahzmidos%2F79sr2r0pt4dSwN0VrE21W0%2Fimg.png
 https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FwZbEB%2FbtsaqPnNm60%2Fh5D53Ve5xkAIQ1jkc1wv00%2Fimg.png
