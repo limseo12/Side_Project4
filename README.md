@@ -42,12 +42,13 @@ Vocoer 역할 = mel-spectrogram을 이용하여 WaveNet은 MOL에 사용할 para
 레퍼런스 = t아카데미 음성합성, https://tts.readthedocs.io/
 
 ppt:
-![image](https://user-images.githubusercontent.com/93918673/232313209-02157320-2f28-43cd-99f1-522275b4de13.png)
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCkLe8%2FbtsayVno7nh%2FMXOgfNaY4zbS1lLRniaG9k%2Fimg.png
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuabB8%2Fbtsahzmidos%2F79sr2r0pt4dSwN0VrE21W0%2Fimg.png
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FwZbEB%2FbtsaqPnNm60%2Fh5D53Ve5xkAIQ1jkc1wv00%2Fimg.png
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzdYqI%2Fbtsaw8fZoNE%2FkTbUqu2GHCGvHj7vpgyPmk%2Fimg.png
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F8cVSR%2Fbtsak3z7Fzr%2Fakge2YV2l4mIktRVdyKx6k%2Fimg.png
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FTkA81%2Fbtsal3Uaaef%2FnXaV9QbyXKL9bQuWRKfB21%2Fimg.png
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbc1y1n%2FbtsayWmiZot%2FTLrIDMSIPl2Wy3eQEQOrl0%2Fimg.png
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcaUZyz%2FbtsayU24XC1%2FfCVisyukTScEzBJ6FZC14k%2Fimg.png
+![image](https://user-images.githubusercontent.com/93918673/232313241-049b780a-8ad0-4fd0-bd00-2d38945881e4.png)
+![image](https://user-images.githubusercontent.com/93918673/232313246-ee383bea-39b2-426e-8f9a-39ba25e3aee5.png)
+![image](https://user-images.githubusercontent.com/93918673/232313252-6df1de40-8b98-43c6-b6c8-6c8a9c180493.png)
+![image](https://user-images.githubusercontent.com/93918673/232313258-47875f28-3ddb-415f-be3f-791fc20c81af.png)
+![image](https://user-images.githubusercontent.com/93918673/232313263-197dd66b-87fb-4cca-bc81-fe117dab6264.png)
+![image](https://user-images.githubusercontent.com/93918673/232313268-8827e5a2-bb39-4808-8116-0371c1632c88.png)
+![image](https://user-images.githubusercontent.com/93918673/232313273-f713ae57-9652-4868-a6fd-8f8e1a793721.png)
+![image](https://user-images.githubusercontent.com/93918673/232313280-efd902f7-8f64-471e-8171-f66ddf7ce69b.png)
+![image](https://user-images.githubusercontent.com/93918673/232313283-54cc5041-6fc8-40e8-aa08-a859f17e2014.png)
+
