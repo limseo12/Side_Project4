@@ -1,4 +1,4 @@
-# SideProject-4
+# 논문 구현 1번째
 Tacotron2를 이용한 음성합성 프로젝트 입니다 (PyTorch)\
 torch_hub_LJ_Speech 폴더에 들어가면 torch_hub를 이용하여 타코트론2 모델과 waveglow 모델을 불러와 음성합성을 진행했습니다.\
 (tacotron2 + 보코더 모두 구현되어 있다.)\
