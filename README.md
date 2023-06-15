@@ -12,7 +12,7 @@ dataset : LJ Speech 데이터셋을 사용하였습니다.한국어 데이터셋
       타코트론2 부분을 구현하였습니다.보코더 부분은 제외하였습니다.\
       논문에 대한 번역본도 paper 폴더에 올려 놓았습니다.
 
-      합성한 음성입니다: https://blog.kakaocdn.net/dn/ODJIF/btrZ6Ie8yCV/KcBNw6mvHRhC6hYrTcpZkK/tfile.wav
+합성한 음성입니다: https://blog.kakaocdn.net/dn/ODJIF/btrZ6Ie8yCV/KcBNw6mvHRhC6hYrTcpZkK/tfile.wav
 
 
 모델설명:
